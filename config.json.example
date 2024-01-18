@@ -1,0 +1,7 @@
+{
+  "discordToken": "YOUR_DISCORD_BOT_TOKEN",
+  "pushoverToken": "YOUR_PUSHOVER_TOKEN",
+  "pushoverUser": "YOUR_PUSHOVER_USER_KEY",
+  "guildId": "YOUR_GUILD_ID",
+  "memberId": "TARGET_MEMBER_ID"
+}
